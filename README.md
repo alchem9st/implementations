@@ -1,5 +1,5 @@
 # Implementations
 List of projects made by me.
-About
-Credits
-My Favorite Ones
+#About
+#Credits
+#My Favorite Ones
